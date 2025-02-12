@@ -72,3 +72,4 @@ jobs:
           path: |
             espanso-debian-x11-amd64.deb
             espanso-debian-wayland-amd64.deb
+
